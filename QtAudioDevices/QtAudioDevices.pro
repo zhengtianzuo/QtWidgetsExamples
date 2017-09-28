@@ -4,7 +4,11 @@
 #
 #-------------------------------------------------
 
-TEMPLATE = subdirs
-SUBDIRS += QtAnimatedTextEdit
-SUBDIRS += QtAnimation
-SUBDIRS += QtAudioDevices
+QT       += core gui widgets multimedia
+
+SOURCES += main.cpp\
+        QtAudioDevices.cpp
+
+HEADERS  += QtAudioDevices.h
+
+FORMS    += QtAudioDevices.ui
