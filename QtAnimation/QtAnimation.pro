@@ -4,6 +4,11 @@
 #
 #-------------------------------------------------
 
-TEMPLATE = subdirs
-SUBDIRS += QtAnimatedTextEdit
-SUBDIRS += QtAnimation
+QT += core gui widgets
+
+SOURCES += main.cpp\
+        QtAnimation.cpp
+
+HEADERS  += QtAnimation.h
+
+FORMS    += QtAnimation.ui
