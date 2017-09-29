@@ -10,3 +10,4 @@ SUBDIRS += QtAnimation
 SUBDIRS += QtAudioDevices
 SUBDIRS += QtDialog
 SUBDIRS += QtCamera
+SUBDIRS += QtGrayImage

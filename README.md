@@ -10,3 +10,5 @@ QtAudioDevices: Qt获取音频设备信息
 QtDialog: Qt自定义窗体系统按钮
 
 QtCamera: Qt操作摄像头
+
+QtGrayImage: Qt图片转灰度
