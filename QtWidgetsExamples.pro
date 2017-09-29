@@ -12,3 +12,4 @@ SUBDIRS += QtDialog
 SUBDIRS += QtCamera
 SUBDIRS += QtGrayImage
 SUBDIRS += QtLanguage
+SUBDIRS += QtLocalIP

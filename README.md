@@ -14,3 +14,5 @@ QtCamera: Qt操作摄像头
 QtGrayImage: Qt图片转灰度
 
 QtLanguage: Qt语言切换
+
+QtLocalIP: Qt获取本地IP
