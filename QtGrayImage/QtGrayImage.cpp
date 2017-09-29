@@ -1,6 +1,12 @@
+﻿/*!
+ *@file QtGrayImage.cpp
+ *@brief 图片转灰度
+ *@version 1.0
+ *@section LICENSE Copyright (C) 2003-2103 CamelSoft Corporation
+ *@author zhengtianzuo
+*/
 #include "QtGrayImage.h"
 #include "ui_QtGrayImage.h"
-#include <QDebug>>
 
 QtGrayImage::QtGrayImage(QWidget *parent) :
     QDialog(parent),

@@ -1,6 +1,11 @@
-#ifndef QTGRAYIMAGE_H
-#define QTGRAYIMAGE_H
-
+﻿/*!
+ *@file QtGrayImage.h
+ *@brief 图片转灰度
+ *@version 1.0
+ *@section LICENSE Copyright (C) 2003-2103 CamelSoft Corporation
+ *@author zhengtianzuo
+*/
+#pragma once
 #include <QDialog>
 
 namespace Ui {
@@ -23,5 +28,3 @@ private:
 
     Ui::QtGrayImage *ui;
 };
-
-#endif // QTGRAYIMAGE_H
