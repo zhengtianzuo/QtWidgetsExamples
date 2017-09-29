@@ -11,3 +11,4 @@ SUBDIRS += QtAudioDevices
 SUBDIRS += QtDialog
 SUBDIRS += QtCamera
 SUBDIRS += QtGrayImage
+SUBDIRS += QtLanguage
