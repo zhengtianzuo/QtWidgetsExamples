@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close(1).png</file>
+        <file>images/close(2).png</file>
+        <file>images/close(3).png</file>
+        <file>images/close.png</file>
+        <file>images/max(1).png</file>
+        <file>images/max(2).png</file>
+        <file>images/max(3).png</file>
+        <file>images/max.png</file>
+        <file>images/min(1).png</file>
+        <file>images/min(2).png</file>
+        <file>images/min(3).png</file>
+        <file>images/min.png</file>
+        <file>images/restore(1).png</file>
+        <file>images/restore(2).png</file>
+        <file>images/restore(3).png</file>
+        <file>images/restore.png</file>
+    </qresource>
+</RCC>

@@ -4,8 +4,14 @@
 #
 #-------------------------------------------------
 
-TEMPLATE = subdirs
-SUBDIRS += QtAnimatedTextEdit
-SUBDIRS += QtAnimation
-SUBDIRS += QtAudioDevices
-SUBDIRS += QtDialog
+QT       += core gui widgets
+
+SOURCES += main.cpp\
+        QtDialog.cpp
+
+HEADERS  += QtDialog.h
+
+FORMS    += QtDialog.ui
+
+RESOURCES += \
+    QtDialog.qrc
