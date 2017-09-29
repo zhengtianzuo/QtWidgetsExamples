@@ -9,3 +9,4 @@ SUBDIRS += QtAnimatedTextEdit
 SUBDIRS += QtAnimation
 SUBDIRS += QtAudioDevices
 SUBDIRS += QtDialog
+SUBDIRS += QtCamera

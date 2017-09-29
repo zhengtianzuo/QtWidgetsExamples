@@ -8,3 +8,5 @@ QtAnimation: Qt动画控制效果
 QtAudioDevices: Qt获取音频设备信息
 
 QtDialog: Qt自定义窗体系统按钮
+
+QtCamera: Qt操作摄像头
