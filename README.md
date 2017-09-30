@@ -42,3 +42,6 @@ QtLanguage: Qt语言切换
 QtLocalIP: Qt获取本地IP
 
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLocalIP/show.png?raw=true)
+
+
+QtLog4Qt: Qt使用Log4Qt写日志
