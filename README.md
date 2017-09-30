@@ -6,18 +6,22 @@ QtWidgets相关的技术分享
 ![](https://img.shields.io/badge/%E7%89%88%E6%9D%83%E8%AE%B8%E5%8F%AF-MIT-orange.svg)
 
 QtAnimatedTextEdit: QTextEdit中插入Gif动画并显示
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtAnimatedTextEdit/show.gif?raw=true)
 
 
 QtAnimation: Qt动画控制效果
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtAnimation/show.gif?raw=true)
 
 
 QtAudioDevices: Qt获取音频设备信息
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtAudioDevices/show.png?raw=true)
 
 
 QtDialog: Qt自定义窗体系统按钮
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtDialog/show.png?raw=true)
 
 
@@ -25,13 +29,16 @@ QtCamera: Qt操作摄像头
 
 
 QtGrayImage: Qt图片转灰度
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtGrayImage/show.png?raw=true)
 
 
 QtLanguage: Qt语言切换
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLanguage/show1.png?raw=true)
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLanguage/show2.png?raw=true)
 
 
 QtLocalIP: Qt获取本地IP
+
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLocalIP/show.png?raw=true)
