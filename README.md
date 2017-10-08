@@ -55,3 +55,5 @@ QtLoadRcc: Qt动态加载RCC资源
 
 QtPlugin: Qt插件
 
+![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtPlugin/QtMyPluginTest/show.gif?raw=true)
+
