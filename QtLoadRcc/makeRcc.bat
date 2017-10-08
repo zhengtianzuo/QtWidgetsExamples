@@ -1,0 +1,1 @@
+rcc.exe -binary QtLoadRcc.qrc -o QtLoadRcc.rcc
