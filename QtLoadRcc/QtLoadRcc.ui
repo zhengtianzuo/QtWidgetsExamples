@@ -29,7 +29,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>QtLoadRcc</string>
+   <string>Qt动态加载RCC资源</string>
   </property>
   <layout class="QGridLayout" name="gridLayout">
    <property name="leftMargin">

@@ -1,0 +1,12 @@
+QPushButton
+{
+    border-image: url(:/ButtonNormal.png);
+}
+QPushButton:hover
+{
+    border-image: url(:/ButtonHover.png);
+}
+QPushButton:pressed
+{
+    border-image: url(:/ButtonPressed.png);
+}

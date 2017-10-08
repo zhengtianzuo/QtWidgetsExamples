@@ -17,3 +17,4 @@ SUBDIRS += QtLog4Qt
 SUBDIRS += QtLoadRcc
 SUBDIRS += QtPlugin\QtMyPlugin
 SUBDIRS += QtPlugin\QtMyPluginTest
+SUBDIRS += QtQssButton
