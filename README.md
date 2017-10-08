@@ -49,4 +49,4 @@ QtLog4Qt: Qt使用Log4Qt写日志
 
 
 QtLoadRcc: Qt动态加载RCC资源
-
+![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLoadRcc/show.gif?raw=true)
