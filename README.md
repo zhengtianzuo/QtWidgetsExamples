@@ -1,4 +1,7 @@
-﻿# QtWidgetsExamples
+﻿
+![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtWidgetsExamples.jpg?raw=true)
+
+# QtWidgetsExamples
 QtWidgets相关的技术分享
 
 ![](https://img.shields.io/badge/%E7%BC%96%E8%AF%91-%E6%88%90%E5%8A%9F-brightgreen.svg)
