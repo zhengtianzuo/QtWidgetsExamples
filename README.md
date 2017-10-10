@@ -66,4 +66,5 @@ QtQssButton: Qt Qss按钮
 
 QtStackedWidget: Qt堆栈窗体
 
+![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtStackedWidget/show.gif?raw=true)
 
