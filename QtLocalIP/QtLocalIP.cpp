@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *@file QtLocalIP.cpp
  *@brief 获取本地IP
  *@version 1.0

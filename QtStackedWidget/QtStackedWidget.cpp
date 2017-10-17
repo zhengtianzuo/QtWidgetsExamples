@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *@file QtStackedWidget.cpp
  *@brief Qt堆栈窗体
  *@version 1.0

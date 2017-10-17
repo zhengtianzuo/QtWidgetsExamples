@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *@file QtLog4Qt.h
  *@brief Log4Qt写日志
  *@version 1.0

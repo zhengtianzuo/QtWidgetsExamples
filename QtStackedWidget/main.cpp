@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *@file main.cpp
  *@brief 程序主文件
  *@version 1.0
