@@ -75,3 +75,8 @@ QtStackedWidget: Qt堆栈窗体
 
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtStackedWidget/show.gif?raw=true)
 
+
+QtFontAwesome: Qt使用FontAwesome图标字体库
+
+![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtFontAwesome/show.jpg?raw=true)
+
