@@ -24,17 +24,9 @@ QtAnimation: Qt动画控制效果
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtAnimation/show.gif?raw=true)
 
 
-QtAudioDevices: Qt获取音频设备信息
-
-![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtAudioDevices/show.png?raw=true)
-
-
 QtDialog: Qt自定义窗体系统按钮
 
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtDialog/show.png?raw=true)
-
-
-QtCamera: Qt操作摄像头
 
 
 QtGrayImage: Qt图片转灰度
@@ -48,24 +40,9 @@ QtLanguage: Qt语言切换
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLanguage/show2.png?raw=true)
 
 
-QtLocalIP: Qt获取本地IP
-
-![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLocalIP/show.png?raw=true)
-
-
-QtLog4Qt: Qt使用Log4Qt写日志
-
-![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLog4Qt/show.png?raw=true)
-
-
 QtLoadRcc: Qt动态加载RCC资源
 
 ![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtLoadRcc/show.gif?raw=true)
-
-
-QtPlugin: Qt调用插件
-
-![](https://github.com/zhengtianzuo/QtWidgetsExamples/blob/master/QtPlugin/QtMyPluginTest/show.gif?raw=true)
 
 
 QtQssButton: Qt Qss按钮
